@@ -81,7 +81,7 @@ The project demonstrates database design, SQL query writing, data analysis, and 
 ---
 
 ## Folder Structure
-
+``` text
 Grocery-Store-Management-System/
 │
 ├── README.md
@@ -89,6 +89,8 @@ Grocery-Store-Management-System/
 ├── Grocery_Store_Presentation.pptx
 ├── ER_Diagram.png
 └── Dataset.csv
+
+```
 ---
 
 ## Future Improvements
