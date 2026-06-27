@@ -82,12 +82,13 @@ The project demonstrates database design, SQL query writing, data analysis, and 
 
 ## Folder Structure
 
-Database/
-Documentation/
-Analysis/
-Screenshots/
-Dataset/
-
+Grocery-Store-Management-System/
+│
+├── README.md
+├── grocery_store_management.sql
+├── Grocery_Store_Presentation.pptx
+├── ER_Diagram.png
+└── Dataset.csv
 ---
 
 ## Future Improvements
@@ -98,8 +99,4 @@ Dataset/
 * Customer Segmentation
 * Web-Based Grocery Management System
 
----
 
-## Author
-
-Your Name
